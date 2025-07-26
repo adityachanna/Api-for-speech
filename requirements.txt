@@ -1,0 +1,25 @@
+# Core FastAPI and Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# LangChain and LangGraph
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+langchain-community
+langchain-core
+
+# Additional Tools and Utilities
+tavily-python
+pydantic
+aiofiles
+
+# Database (SQLite3 is built into Python)
+# No additional package needed for sqlite3
+
+# Optional: For enhanced functionality
+# websocket
+# redis # For production-ready session storage
